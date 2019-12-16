@@ -1,0 +1,16 @@
+
+
+npm install -g @angular/cli
+
+ng new my-app
+
+
+create Angular App -- Create components 
+
+ng g c employees -- Create employees Template with three files
+
+ng g c employee/employee-list -- Inside folder template generations
+
+ng g c ng g s shared/employee -- shared employee service class
+
+ng g cl shared/employee --type=model
